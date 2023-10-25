@@ -1,0 +1,7 @@
+Design a bird which can fly:
+	• Can fly(),
+	• Can makeSound(),
+	• Can dance(),
+	• Ability to add new feature,
+	• Ability to add new bird
+	• More than a bird can have same behavior like same fly behavior
